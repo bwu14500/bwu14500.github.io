@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Brandon Wu
+Brandon Wu
+CS & CE student @ USC
 
 Show Contacts
 
 Email
-richard@example.com
+brandon20020606@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (213) 709-7766
 
 Birthday
-June 23, 1982
+June 6, 2002
 
 Location
-Sacramento, California, USA
+Los Angeles, California, USA
 
 # navbar
 
