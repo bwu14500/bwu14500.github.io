@@ -1,2 +1,2 @@
 # link
-bwu14500@usc.edu
+https://bwu14500.github.io
